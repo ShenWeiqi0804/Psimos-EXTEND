@@ -1,0 +1,15 @@
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Psimos.Core.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Psimos.Core.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\obj\Debug\Psimos.Core.csproj.AssemblyReference.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\obj\Debug\Psimos.Core.csproj.CoreCompileInputs.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\obj\Debug\Psimos.Core.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\obj\Debug\Psimos.Core.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\log4net.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Newtonsoft.Json.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Psimos.Transform.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Psimos.Support.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Psimos.Transform.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\log4net.xml
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Newtonsoft.Json.xml
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\bin\Debug\Psimos.Support.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Core\obj\Debug\Psimos.C.7583FC07.Up2Date

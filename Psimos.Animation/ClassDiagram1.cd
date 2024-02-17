@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Psimos.Animation.AnimationClip" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimationClip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Psimos.Animation.AnimationContainer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AnimationContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Psimos.Animation.AnimationFrame" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimationFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Psimos.Animation.AnimationFrameTransform" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAACAAAAAAAAAAAEAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimationFrameTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Psimos.Animation.BehaviourAdministrator&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BehaviourAdministrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="Psimos.Animation.TransformFunc" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimationFrameTransform.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\obj\Debug\Psimos.Animation.csproj.AssemblyReference.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\obj\Debug\Psimos.Animation.csproj.CoreCompileInputs.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\bin\Debug\Psimos.Animation.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\bin\Debug\Psimos.Animation.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\bin\Debug\Psimos.Support.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\bin\Debug\Psimos.Support.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\obj\Debug\Psimos.A.C38BB0F1.Up2Date
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\obj\Debug\Psimos.Animation.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Animation\obj\Debug\Psimos.Animation.pdb

@@ -1,0 +1,6 @@
+F:\ShenWeiqi\PsimosSupport\Psimos.Support\bin\Debug\Psimos.Support.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Support\bin\Debug\Psimos.Support.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Support\obj\Debug\Psimos.Support.csproj.AssemblyReference.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Support\obj\Debug\Psimos.Support.csproj.CoreCompileInputs.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Support\obj\Debug\Psimos.Support.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Support\obj\Debug\Psimos.Support.pdb
