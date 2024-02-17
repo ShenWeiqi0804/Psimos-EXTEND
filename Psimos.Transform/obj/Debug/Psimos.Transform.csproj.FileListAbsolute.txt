@@ -1,0 +1,9 @@
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\bin\Debug\Psimos.Transform.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\bin\Debug\Psimos.Transform.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\bin\Debug\Psimos.Support.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\bin\Debug\Psimos.Support.pdb
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\obj\Debug\Psimos.Transform.csproj.AssemblyReference.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\obj\Debug\Psimos.Transform.csproj.CoreCompileInputs.cache
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\obj\Debug\Psimos.T.DC213BE1.Up2Date
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\obj\Debug\Psimos.Transform.dll
+F:\ShenWeiqi\PsimosSupport\Psimos.Transform\obj\Debug\Psimos.Transform.pdb

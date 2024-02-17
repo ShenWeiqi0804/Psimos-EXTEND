@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psimos.Core", "Psimos.Core\Psimos.Core.csproj", "{ADD68756-9EF7-42D7-91EE-F18D8AF00D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psimos.Transform", "Psimos.Transform\Psimos.Transform.csproj", "{69787533-2E8B-4A61-A469-64E0EDC86E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psimos.Animation", "Psimos.Animation\Psimos.Animation.csproj", "{829D95FB-3B59-4B5E-9D80-91332C431AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psimos.Support", "Psimos.Support\Psimos.Support.csproj", "{4BA53EF2-A42E-4743-9D5D-5588AB173D35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD68756-9EF7-42D7-91EE-F18D8AF00D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD68756-9EF7-42D7-91EE-F18D8AF00D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD68756-9EF7-42D7-91EE-F18D8AF00D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD68756-9EF7-42D7-91EE-F18D8AF00D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69787533-2E8B-4A61-A469-64E0EDC86E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69787533-2E8B-4A61-A469-64E0EDC86E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69787533-2E8B-4A61-A469-64E0EDC86E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69787533-2E8B-4A61-A469-64E0EDC86E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829D95FB-3B59-4B5E-9D80-91332C431AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829D95FB-3B59-4B5E-9D80-91332C431AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829D95FB-3B59-4B5E-9D80-91332C431AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829D95FB-3B59-4B5E-9D80-91332C431AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA53EF2-A42E-4743-9D5D-5588AB173D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA53EF2-A42E-4743-9D5D-5588AB173D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA53EF2-A42E-4743-9D5D-5588AB173D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA53EF2-A42E-4743-9D5D-5588AB173D35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8935D36-AEA4-42B3-BD52-0778A8257D46}
+	EndGlobalSection
+EndGlobal
